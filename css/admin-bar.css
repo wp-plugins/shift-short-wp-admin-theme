@@ -1,0 +1,9 @@
+#wpadminbar *{font-family:"PT Sans",sans-serif}
+#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar > a img{border-width:0;border-radius:100%;width:26px;height:26px}
+#wpadminbar{height:40px;box-shadow:0 2px 2px rgba(0,0,0,0.05),0 1px 0 rgba(0,0,0,0.05);padding:4px 0;background-image: url(../images/purty-wood.png);}
+#wpadminbar a.ab-item,#wpadminbar>#wp-toolbar span.ab-label,#wpadminbar>#wp-toolbar span.noticon{color:#696969}
+#wpadminbar #adminbarsearch:before,#wpadminbar .ab-icon:before,#wpadminbar .ab-item:before{color:lightgray}
+li#wp-admin-bar-wp-logo{display:none}
+#wpadminbar .ab-top-menu>li:hover>.ab-item{-webkit-border-radius:5px;-khtml-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-goog-ms-border-radius:5px}
+#wpadminbar .ab-top-menu>.menupop>.ab-sub-wrapper{margin-top:-5px;-webkit-border-radius:0 5px 5px 5px;-khtml-border-radius:0 5px 5px 5px;-moz-border-radius:0 5px 5px;border-radius:0 5px 5px 5px}
+#wpadminbar a.ab-item, #wpadminbar>#wp-toolbar span.ab-label, #wpadminbar>#wp-toolbar span.noticon {color: #FFFFFF;}

@@ -1,0 +1,12 @@
+@import "http://fonts.googleapis.com/css?family=Bitter:400,700";
+@import "http://fonts.googleapis.com/css?family=PT+Sans:400,700";
+h1,h2,h3,h4,h5,h6{font-family:'Bitter',serif}
+body{font-family:"PT Sans",sans-serif;background-image:url(../images/purty-wood.png)}
+.login #backtoblog,.login #nav{text-align:center}
+.login #backtoblog a,.login #nav a{text-decoration:none;color:dimgrey;text-transform:uppercase;font-size:9pt}
+.login form{background:rgba(255,255,255,0.8)}
+.login label{font-size:13px;text-transform:lowercase}
+.login h1 a{background:none;width:100%;font-size:16pt;height:100%;color:#333}
+.login h1 a:before{content:'Login';display:block}
+.login form .input,.login form input[type=checkbox],.login input[type=text]{background:rgba(255,255,255,0)}
+.login form .input,.login form input[type=checkbox],.login input[type=text],.login form{-webkit-border-radius:5px;-khtml-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-goog-ms-border-radius:5px}

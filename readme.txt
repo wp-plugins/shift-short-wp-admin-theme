@@ -14,3 +14,24 @@ Just another wp admin theme. Simple but clean.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
 You will not find any new page, just the visual itself will be changed.
+
+== Frequently Asked Questions ==
+
+= Why you use wood? =
+
+Cause it represents the evolution of the plugin. The first version is made on wood, the next will be based on metal.
+
+== Screenshots ==
+
+1. Wordpress Admin Dashboard
+2. List of pages
+
+== Changelog ==
+
+= 1.1 =
+* Add short_ before filters.
+* Add screenshots.
+* Add changelog.
+
+= 1.0 =
+* First version.

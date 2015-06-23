@@ -9,6 +9,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Just another wp admin theme. Simple, but clean.
 
+Github: https://github.com/brshift/shift-short-wp-admin-theme
+
 == Installation ==
 
 1. Upload the entire `shift-short-wp-admin-theme` folder to the `/wp-content/plugins/` directory.

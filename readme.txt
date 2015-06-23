@@ -17,16 +17,20 @@ You will not find any new page, just the visual itself will be changed.
 
 == Frequently Asked Questions ==
 
-= Why you use wood? =
+= How can I disable the visual? =
 
-Cause it represents the evolution of the plugin. The first version is made on wood, the next will be based on metal.
+Just disable the plugin and everything will become standard.
 
 == Screenshots ==
 
 1. Wordpress Admin Dashboard
-2. List of pages
+2. List of Pages
+3. Login Page
 
 == Changelog ==
+
+= 1.2 =
+* Renewed the stylesheets
 
 = 1.1 =
 * Add short_ before filters.

@@ -3,7 +3,7 @@
 Plugin Name: SHIFT Short WP Admin Theme
 Plugin URI: https://brshift.com/
 Description: Clean the WordPress Dashboard and get more space!
-Version: 1.1
+Version: 1.2
 Author: SHIFT
 Author URI: https://brshift.com/
 License: GPLv2

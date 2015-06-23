@@ -9,6 +9,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Just another wp admin theme. Simple, but clean.
 
+== Description ==
+
+Just another wp admin theme. Simple, but clean.
+
+If you like Short, please consider leaving a review here on WordPress. Thank you!
+
 Github: https://github.com/brshift/shift-short-wp-admin-theme
 
 == Installation ==

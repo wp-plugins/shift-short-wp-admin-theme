@@ -1,5 +1,6 @@
 === SHIFT Short WP Admin Theme ===
 Contributors: brshift
+Tags: admin, admin page, admin panel, admin theme style plugin, wordpress admin panel, admin-theme, backend theme, custom admin theme, flat admin theme, free admin theme style plugin, modern admin theme, new admin ui, simple admin theme, white Label, wordpress, wordpress admin dashboard, wordpress admin theme, wp admin page, wp admin theme, shift, short, clean, wp admin
 Requires at least: 4.1
 Tested up to: 4.2.2
 Stable tag: 4.2

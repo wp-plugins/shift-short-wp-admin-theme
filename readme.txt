@@ -15,7 +15,8 @@ Just another wp admin theme. Simple, but clean.
 
 If you like Short, please consider leaving a review here on WordPress. Thank you!
 
-Github: https://github.com/brshift/shift-short-wp-admin-theme
+Source on Github: https://github.com/brshift/shift-short-wp-admin-theme
+Icons by Elegant Themes: http://www.elegantthemes.com/blog/resources/elegant-icon-font
 
 == Installation ==
 
@@ -35,8 +36,15 @@ Just disable the plugin and everything will become standard.
 1. Wordpress Admin Dashboard
 2. List of Pages
 3. Login Page
+4. Customize Section
 
 == Changelog ==
+
+= 1.3 =
+* Fixed bugs
+* Added Elegant Icons
+* Removed useless icons
+* Edited wp admin bar
 
 = 1.2 =
 * Renewed the stylesheets

@@ -16,6 +16,7 @@ Just another wp admin theme. Simple, but clean.
 If you like Short, please consider leaving a review here on WordPress. Thank you!
 
 Source on Github: https://github.com/brshift/shift-short-wp-admin-theme
+
 Icons by Elegant Themes: http://www.elegantthemes.com/blog/resources/elegant-icon-font
 
 == Installation ==
